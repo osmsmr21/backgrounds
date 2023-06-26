@@ -1,8 +1,8 @@
 .box {
   border: 1px solid red;
-  height: 300px;
-  width: 300px;
-  background-image: url("images/peacock.png");
+  height: 1300px;
+  width: 1500px;
+  background-image: url("images/food.jpg");
   /* could add more images ,url("images/sunset.jpeg") */
   background-color: aquamarine; /*if image transparent */
   background-repeat: no-repeat;
