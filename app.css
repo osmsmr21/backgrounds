@@ -5,4 +5,8 @@
   background-image: url("images/peacock.png");
   /* could add more images ,url("images/sunset.jpeg") */
   background-color: aquamarine; /*if image transparent */
+  background-repeat: no-repeat;
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-repeat: repeat;
 }
